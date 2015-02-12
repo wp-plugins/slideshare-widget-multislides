@@ -1,4 +1,4 @@
-=== slideshare-widget ===
+=== SlideShare Presentations in Widget ===
 Contributors: magiclogix
 Tags: slideshare, widget, api, integration, api, presentation widget, plugin, multislides
 Requires at least: 3.0
