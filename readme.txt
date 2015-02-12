@@ -4,7 +4,7 @@ Tags: slideshare, widget, api, integration, api, presentation widget, plugin, mu
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.1.0
-License: GPLv2 or later 
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate Link: http://www.magiclogix.com
 
@@ -13,18 +13,13 @@ This plugin uses no javascript and written only in php.
 
 == Description ==
 Show latest slides of a user account from slideshare.net in a widget via its own API.
-Users can manage the number of slides to be shown from the widget admin area. 
+Users can manage the number of slides to be shown from the widget admin area.
 
-= Supported Social Channels =
-* Facebook
-* Twitter
-* Google+
-* LinkedIn
-* Pinterest
+
 
 = Useful Links =
-* [rtSocial Plugin's Homepage](http://rtcamp.com/rtsocial/)
-* [Free Support Forum](http://rtcamp.com/support/forum/rtsocial/)
+* [Plugin's Homepage](http://www.magiclogix.com/)
+* [Plugin’s Support Link](http://magiclogix.com/contact/)
 
 == Installation ==
 The following are the steps to install the Slideshare widget plugin:
